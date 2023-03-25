@@ -1,0 +1,31 @@
+a
+air - воздух
+answer - ответ
+b
+bird - птица
+body - тело
+book - книга
+c
+country - страна
+d
+door - дверь
+f
+father - отец
+friend - друг
+h
+head - голова
+home - дом
+horse - лошадь
+k
+king - король
+l
+love - любовь
+s
+song - песня
+t
+tree - дерево
+w
+water - вода
+week - неделя
+woman - женщина
+word - слово
